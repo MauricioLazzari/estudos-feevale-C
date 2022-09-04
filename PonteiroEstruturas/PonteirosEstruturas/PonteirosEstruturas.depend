@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662235596 source:c:\users\mauri\desktop\ponteiros\ponteiroestruturas\ponteirosestruturas\main.c
+	<stdio.h>
+	<stdlib.h>
+
